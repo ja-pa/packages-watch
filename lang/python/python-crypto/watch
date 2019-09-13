@@ -1,0 +1,3 @@
+version=3
+opts=pgpsigurlmangle=s/$/.asc/ \
+  http://ftp.dlitz.net/pub/dlitz/crypto/pycrypto/pycrypto-(\d[\d.]*)\.tar\.gz

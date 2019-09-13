@@ -1,0 +1,4 @@
+version=2
+
+http://dns.measurement-factory.com/tools/dnstop/src/ \
+         dnstop-([\d\.]*).tar.gz

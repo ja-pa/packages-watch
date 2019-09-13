@@ -1,0 +1,5 @@
+# For now, upstream archives are built from git once a day if needed.
+# When importing, prefix the archive's date-stamp version with "0.1~git"
+version=3
+opts="uversionmangle=s/^/0.1~git/" \
+  ftp://ftp.infradead.org/pub/vpnc-scripts/vpnc-scripts-(.*)\.tar.gz

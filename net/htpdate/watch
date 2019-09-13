@@ -1,0 +1,3 @@
+version=3
+http://www.vervest.org/htp/archive/c/htpdate-(\d\S+)\.tar\.(?:bz2|gz|xz)
+http://www.vervest.org/htp/download .*/htpdate-(\d\S+)\.tar\.(?:bz2|gz|xz)

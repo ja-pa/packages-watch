@@ -1,0 +1,3 @@
+version=3
+opts=pgpsigurlmangle=s/$/.asc/ \
+https://mcabber.com/files/loudmouth/loudmouth-([\d\.]+)\.tar\.bz2

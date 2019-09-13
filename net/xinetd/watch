@@ -1,0 +1,6 @@
+version=3
+#opts=uversionmangle=s/(\d)[_\.\-\+]?((RC|rc|pre|dev|beta|alpha|b|a)[\-\.]?\d*)$/$1~$2/
+opts="uversionmangle=s/-/./g"  \
+https://github.com/xinetd-org/xinetd/releases \
+.*/xinetd-(\d+-\d+-\d+)\.tar\.gz
+

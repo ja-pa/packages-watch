@@ -1,0 +1,3 @@
+version=3
+opts=pgpsigurlmangle=s/$/.asc/,uversionmangle=s/rc/~rc/ \
+https://getdnsapi.net/dist/getdns-(.*)\.tar\.gz

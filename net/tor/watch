@@ -1,0 +1,4 @@
+version=3
+opts="uversionmangle=s/-(rc)/~$1/,pgpsigurlmangle=s/$/.asc/" \
+	https://people.torproject.org/~dgoulet/torsocks/ \
+	torsocks-(.+)\.tar\.[^.]+

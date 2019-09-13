@@ -1,0 +1,4 @@
+version=3
+
+http://www.banu.com/pub/tinyproxy/([\d\.]+[02468])/ \
+	tinyproxy-(.*)\.tar\.xz

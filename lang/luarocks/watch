@@ -1,0 +1,6 @@
+# test this watch file using:
+# uscan --watchfile debian/watch --upstream-version 0.0.1 --package luarocks
+#
+version=3
+opts=dversionmangle=s/\+dfsg\d*$// \
+  http://www.luarocks.org/releases/luarocks-([\d\.]*).tar.gz

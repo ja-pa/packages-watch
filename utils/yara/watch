@@ -1,0 +1,4 @@
+version=3
+opts="dversionmangle=s/\+dfsg//" \
+    https://github.com/plusvic/yara/releases .*/v?(\d\S+)\.tar\.(?:bz2|gz|xz) \
+    debian debian/orig-tar.sh

@@ -1,0 +1,5 @@
+version=3
+# Experimental watch:
+#http://dl.cihar.com/gammu/releases/gammu-(.*\.9[0-9])\.tar\.xz
+# Stable watch:
+http://dl.cihar.com/gammu/releases/gammu-(.*\.[^9])\.tar\.xz

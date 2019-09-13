@@ -1,0 +1,5 @@
+
+version=3
+opts=pgpsigurlmangle=s/$/.asc/ \
+    http://code.google.com/p/softflowd/downloads/list?can=1 \
+    .*/softflowd-(\d[\d.]*)\.tar\.gz

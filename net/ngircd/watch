@@ -1,0 +1,4 @@
+
+version=3
+opts=pgpsigurlmangle=s/$/.sig/ \
+    http://arthur.barton.de/pub/ngircd/ngircd-([0-9\.]+(?:~rc\d+)?)\.tar\.gz

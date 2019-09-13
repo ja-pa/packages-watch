@@ -1,0 +1,4 @@
+# Run the "uscan" command to check for upstream updates and more.
+version=2
+http://www.radicale.org/download .*/Radicale-(\d.*).tar.gz debian
+https://github.com/Kozea/Radicale/tags .*/archive/v?(\d[\d\.]+).tar.gz

@@ -1,0 +1,9 @@
+#
+# watch -- uscan config file for clamsmtp
+#
+# Because I manage this package with tla-buildpackage, I do not want uupdate
+# stomping all over my working directory.  No action is taken.
+#
+version=2
+http://thewalter.net/stef/software/clamsmtp/ clamsmtp-([\w+\d+\.]+|\d+)\.tar\.gz debian
+

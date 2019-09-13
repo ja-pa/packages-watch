@@ -1,0 +1,8 @@
+version=3
+opts=uversionmangle=s/dev\.(\d+)/dev$1/,pgpsigurlmangle=s/$/.asc/ \
+http://invisible-mirror.net/archives/lynx/tarballs/ \
+(?:|.*/)lynx(?:[_\-]v?|)(\d[^\s/]*)\.(?:tar\.xz|txz|tar\.bz2|tbz2|tar\.gz|tgz)
+
+opts=uversionmangle=s/dev\.(\d+)/dev$1/,pgpsigurlmangle=s/$/.asc/ \
+ftp://invisible-island.net/lynx/tarballs/ \
+(?:|.*/)lynx(?:[_\-]v?|)(\d[^\s/]*)\.(?:tar\.xz|txz|tar\.bz2|tbz2|tar\.gz|tgz)

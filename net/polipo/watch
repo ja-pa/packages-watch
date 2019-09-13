@@ -1,0 +1,3 @@
+version=3
+opts=uversionmangle=s/^20[01]\d*$/0.0.$1/ \
+http://www.pps.univ-paris-diderot.fr/~jch/software/files/polipo/polipo-(\d.*)\.(?:tgz|tar\.(?:gz|bz2|xz))

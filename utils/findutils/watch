@@ -1,0 +1,5 @@
+version=3
+opts=pgpsigurlmangle=s/$/.sig/ \
+ftp://alpha.gnu.org/gnu/findutils/findutils-([\d\.\d]+)\.tar\.(?:gz|bz2|xz)
+opts=pgpsigurlmangle=s/$/.sig/ \
+ftp://ftp.gnu.org/gnu/findutils/findutils-([\d\.\d]+)\.tar\.(?:gz|bz2|xz)

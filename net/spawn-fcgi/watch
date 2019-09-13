@@ -1,0 +1,5 @@
+# Compulsory line, this is a version 3 file
+version=3
+
+http://redmine.lighttpd.net/projects/spawn-fcgi/news http://www.lighttpd.net/download/spawn-fcgi-([\d\.]*)\.tar\.gz
+

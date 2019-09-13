@@ -1,0 +1,4 @@
+# See uscan(1) for format
+version=3
+https://github.com/bcl/digitemp/releases \
+  /bcl/digitemp/archive/v(.*).tar\.gz

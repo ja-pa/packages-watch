@@ -1,0 +1,3 @@
+version=3
+
+http://www.shorewall.net/pub/shorewall/5.0/shorewall-(5[\d.]+)/shorewall-core-(5[\d.]+)\.(?:tar(?:\.gz|\.bz2)?|tgz|zip)

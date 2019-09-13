@@ -1,0 +1,2 @@
+version=3
+http://sf.net/ssdeep/ssdeep-(\d\S+)\.tar\.(?:bz2|gz|xz)

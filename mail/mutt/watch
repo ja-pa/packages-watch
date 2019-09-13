@@ -1,0 +1,2 @@
+version=3
+opts=pasv,pgpsigurlmangle=s/$/.asc/ ftp://ftp.mutt.org/pub/mutt/mutt-(.*).tar.gz

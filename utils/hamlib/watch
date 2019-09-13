@@ -1,0 +1,2 @@
+version=2
+http://sf.net/hamlib/hamlib-(.*)\.tar\.gz	debian	uupdate

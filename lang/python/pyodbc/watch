@@ -1,0 +1,3 @@
+version=3
+
+http://code.google.com/p/pyodbc/downloads/list?can=1 .*/pyodbc-(\d[\d.]*)\.zip

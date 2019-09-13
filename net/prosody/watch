@@ -1,0 +1,8 @@
+# test this watch file using:
+# uscan --watchfile debian/watch --upstream-version 0.0.1 --package prosody
+#
+version=3
+opts="uversionmangle=s/rc/~rc/" \
+http://prosody.im/downloads/source/ prosody-(.*).tar.gz
+opts="uversionmangle=s/rc/~rc/" \
+http://prosody.im/tmp/(\d.\d.\d.*)/ prosody-(.*).tar.gz

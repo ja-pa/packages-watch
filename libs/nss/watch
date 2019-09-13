@@ -1,0 +1,2 @@
+version=3
+https://archive.mozilla.org/pub/security/nss/releases/NSS_(\d_[\d_]+)_RTM/src/nss-([\d\.]+)\.tar\.(?:bz2|gz)

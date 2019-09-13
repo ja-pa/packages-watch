@@ -1,0 +1,3 @@
+version=3
+opts=pgpsigurlmangle=s/$/.sig/ \
+http://znc.in/releases/znc-([\d.]*).tar.gz

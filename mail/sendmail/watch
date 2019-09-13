@@ -1,0 +1,3 @@
+version=3
+
+opts="pasv,pgpsigurlmangle=s/$/.sig/" ftp://ftp.sendmail.org/pub/sendmail/sendmail\.(\S*)\.tar\.gz

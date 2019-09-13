@@ -1,0 +1,3 @@
+version=3
+https://launchpad.net/intltool/+download \
+	https://launchpad\.net/intltool/trunk/.+/\+download/intltool-(.*)\.tar\.gz

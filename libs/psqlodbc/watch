@@ -1,0 +1,2 @@
+version=3
+ftp://ftp.postgresql.org/pub/odbc/versions/src/psqlodbc-(.*).tar.gz

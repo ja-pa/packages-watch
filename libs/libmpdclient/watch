@@ -1,0 +1,3 @@
+version=3
+http://www.musicpd.org/download/libmpdclient/(\d+)/libmpdclient-([0-9.]+)\.tar\.gz
+

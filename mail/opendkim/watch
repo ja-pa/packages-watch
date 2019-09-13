@@ -1,0 +1,3 @@
+version=3
+opts=uversionmangle=s/(\d)[_\.\-\+]?((RC|rc|pre|dev|beta|Beta|alpha|b|a)[\-\.]?\d*)$/$1~$2/,dversionmangle=s/^(2\.8\.0~)b(eta0)$/$1B$2/,dversionmangle=s/beta/Beta/,pgpsigurlmangle=s/$/.asc/ \
+http://sf.net/opendkim/opendkim-(.*).tar.gz debian uupdate

@@ -1,0 +1,2 @@
+version=2
+http://pypi.debian.net/python-ldap/python-ldap-([\d.]+)\.tar\.gz

@@ -1,0 +1,5 @@
+# test this watch file using:
+# uscan --watchfile debian/watch --upstream-version 0.0.1 --package lua-wsapi
+#
+version=3
+https://github.com/keplerproject/wsapi/downloads .*/wsapi-([\d\.]*).tar.gz

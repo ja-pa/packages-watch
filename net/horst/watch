@@ -1,0 +1,3 @@
+# Compulsory line, this is a version 3 file
+version=3
+http://br1.einfach.org/tech/horst/ (?:\.\./)*(?:horst_dl)?/horst-([\d\.]*)\.tar\.gz

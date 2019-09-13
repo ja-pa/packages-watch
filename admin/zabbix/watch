@@ -1,0 +1,11 @@
+# uscan(1) configuration file.
+version=4
+
+## Redirector http://qa.debian.org/watch/sf.php/zabbix/
+opts="\
+pgpmode=none,\
+repacksuffix=+dfsg,\
+repack,compression=xz,\
+dversionmangle=s/\+dfsg\d*//,\
+uversionmangle=s/\d\K(rc\d+)/~$1/,\
+"  http://sf.net/zabbix/zabbix-(\d[0-9.]+(?:rc\d*)?)\.tar\.gz

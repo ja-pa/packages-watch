@@ -1,0 +1,6 @@
+# test this watch file using:
+# uscan --watchfile debian/watch --upstream-version 0.0.1 --package lua-rings
+#
+version=3
+https://github.com/keplerproject/rings/downloads /downloads/.*/rings/rings-([\d\.]*).tar.gz
+

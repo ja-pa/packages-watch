@@ -1,0 +1,3 @@
+version=3
+opts="pgpsigurlmangle=s/$/.sig/" \
+http://www.musicpd.org/download/mpc/0/mpc-([0-9.]*).tar.xz debian uupdate

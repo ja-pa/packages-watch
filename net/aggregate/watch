@@ -1,0 +1,2 @@
+version=3
+http://ftp.isc.org/isc/aggregate/aggregate-(.*)\.tar\.gz debian  uupdate

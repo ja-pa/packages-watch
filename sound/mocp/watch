@@ -1,0 +1,4 @@
+version=3
+
+opts="pgpsigurlmangle=s/$/.sig/" \
+http://ftp.daper.net/pub/soft/moc/stable	moc-(.*)\.tar\.bz2	debian	uupdate

@@ -1,0 +1,6 @@
+version=3
+opts="uversionmangle=s/-LINUXONLY|.*osx_mod//;s/-beta/beta/;s/-prebeta(\d)/beta$1~pre/" \
+http://nixgeneration.com/~jaime/netdiscover/releases/netdiscover-(\d\S+)\.tar\.(?:bz2|gz|xz)
+
+opts="uversionmangle=s/-LINUXONLY|.*osx_mod//;s/-beta/beta/;s/-prebeta(\d)/beta$1~pre/" \
+http://sf.net/netdiscover/netdiscover-(\d\S+)\.tar\.(?:bz2|gz|xz)

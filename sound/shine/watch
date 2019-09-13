@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/shine-$1\.tar\.gz/ \
+  https://github.com/savonet/shine/tags .*/v?(\d\S*)\.tar\.gz

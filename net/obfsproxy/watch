@@ -1,0 +1,4 @@
+version=3
+opts="downloadurlmangle=s/#.*$//,filenamemangle=s/.*(obfsproxy-[^#]+)#.*$/$1/,pgpsigurlmangle=s/$/.asc/" \
+	https://pypi.python.org/simple/obfsproxy \
+	.*/obfsproxy-(.+)\.tar\.gz#.*

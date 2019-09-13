@@ -1,0 +1,5 @@
+# see uscan(1)
+version=2
+opts=pgpsigurlmangle=s/$/.asc/ \
+	http://ludovic.rousseau.free.fr/softwares/pcsc-tools/ \
+	pcsc-tools-([\d\.]*)\.tar\.gz
