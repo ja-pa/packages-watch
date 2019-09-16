@@ -1,0 +1,2 @@
+version=3
+https://github.com/ap51-flash/ap51-flash/tags .*/tag/v?(\d[\d\.]*)

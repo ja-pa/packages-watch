@@ -1,0 +1,2 @@
+version=3
+https://github.com/mpromonet/v4l2rtspserver/tags .*/tag/v?(\d[\d\.]*)

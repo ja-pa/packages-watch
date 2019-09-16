@@ -1,0 +1,2 @@
+version=3
+https://github.com/mhei/u2pnpd/tags .*/tag/v?(\d[\d\.]*)
