@@ -1,0 +1,2 @@
+version=3
+https://github.com/xtaci/kcptun/tags .*/tag/v?(\d[\d\.]*)

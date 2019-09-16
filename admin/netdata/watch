@@ -1,0 +1,2 @@
+version=3
+https://github.com/netdata/netdata/tags .*/tag/v?(\d[\d\.]*)

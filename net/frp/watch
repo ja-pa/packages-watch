@@ -1,0 +1,2 @@
+version=3
+https://github.com/fatedier/frp/tags .*/tag/v?(\d[\d\.]*)

@@ -1,0 +1,2 @@
+version=3
+https://github.com/micropython/micropython-lib/tags .*/tag/v?(\d[\d\.]*)

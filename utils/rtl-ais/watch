@@ -1,0 +1,2 @@
+version=3
+https://github.com/dgiardini/rtl-ais/tags .*/tag/v?(\d[\d\.]*)

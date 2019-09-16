@@ -1,0 +1,2 @@
+version=3
+https://github.com/google/double-conversion/tags .*/tag/v?(\d[\d\.]*)

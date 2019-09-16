@@ -1,0 +1,2 @@
+version=3
+https://github.com/keplerproject/xavante/tags .*/tag/v?(\d[\d\.]*)

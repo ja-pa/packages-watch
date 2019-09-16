@@ -1,0 +1,2 @@
+version=3
+https://github.com/schanzen/libgabe/tags .*/tag/v?(\d[\d\.]*)

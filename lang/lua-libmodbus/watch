@@ -1,0 +1,2 @@
+version=3
+https://github.com/etactica/lua-libmodbus/tags .*/tag/v?(\d[\d\.]*)

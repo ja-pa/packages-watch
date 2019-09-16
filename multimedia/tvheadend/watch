@@ -1,0 +1,2 @@
+version=3
+https://github.com/tvheadend/tvheadend/tags .*/tag/v?(\d[\d\.]*)

@@ -1,0 +1,2 @@
+version=3
+https://github.com/nunojpg/ntripcaster/tags .*/tag/v?(\d[\d\.]*)

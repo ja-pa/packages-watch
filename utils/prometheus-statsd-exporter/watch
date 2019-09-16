@@ -1,0 +1,2 @@
+version=3
+https://github.com/prometheus/statsd_exporter/tags .*/tag/v?(\d[\d\.]*)

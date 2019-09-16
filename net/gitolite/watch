@@ -1,0 +1,2 @@
+version=3
+https://github.com/sitaramc/gitolite/tags .*/tag/v?(\d[\d\.]*)

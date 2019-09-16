@@ -1,0 +1,2 @@
+version=3
+https://github.com/ktossell/libuvc/tags .*/tag/v?(\d[\d\.]*)

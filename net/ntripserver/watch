@@ -1,0 +1,2 @@
+version=3
+https://github.com/nunojpg/ntripserver/tags .*/tag/v?(\d[\d\.]*)

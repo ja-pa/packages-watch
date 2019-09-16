@@ -1,0 +1,2 @@
+version=3
+https://github.com/Lora-net/lora_gateway/tags .*/tag/v?(\d[\d\.]*)
